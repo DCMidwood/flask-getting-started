@@ -1,14 +1,1 @@
-[
-  { "question": "Hello",
-    "answer": "Hola"
-  },
-  { "question": "Goodbye",
-    "answer": "Adios"
-  },
-  { "question": "How are you",
-    "answer": "Que tal"
-  },
-  { "question": "See you later",
-    "answer": "Hasta luego"
-  }
-]
+[{"question": "Hello", "answer": "Hola"}, {"question": "Goodbye", "answer": "Adios"}, {"question": "How are you", "answer": "Que tal"}, {"question": "See you later", "answer": "Hasta luego"}]
